@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rock Paper Scissor Game</string>
+    <string name="user_0">USER: 0</string>
+    <string name="computer_0">COMPUTER: 0</string>
+    <string name="your_choice">Your Choice:</string>
+    <string name="computer_choice">Computer Choice:</string>
+    <string name="select_your_choice">~ Select Your Choice ~</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissor">Scissor</string>
+    <string name="copyright_nightxstudio_productions">©~NightXStudio Productions Since 2023</string>
+    <string name="_0">0</string>
+</resources>
